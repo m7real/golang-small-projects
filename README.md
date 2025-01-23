@@ -4,7 +4,7 @@ A collection of small projects and experiments written in Go.
 
 ## Projects
 
-### 1. Rock Paper Scissors
+### 1. Rock Paper Scissors Lizard Spock
 
 A simple command-line game of Rock Paper Scissors Lizard Spock. [View Code](rock-paper-scissors)
 
@@ -17,10 +17,6 @@ This repository is a collection of small projects and experiments written in Go.
 ## Contributing
 
 Feel free to contribute to this repository by adding your own small projects or improving existing ones. Please follow standard Go coding conventions and include a brief description of your project in the `README.md` file.
-
-## License
-
-All code in this repository is licensed under the [MIT License](LICENSE).
 
 ## Structure
 
